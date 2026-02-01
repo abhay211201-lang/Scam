@@ -46,7 +46,7 @@
     </style>
 </head>
 <body>
-    <h1>Hey Bombomcito, will you be my Valentine? 🐄💕</h1>
+    <h1>Hey Bombomcito, Corazoncito, Amorcito, will you be my Valentine? 🐄💕</h1>
     <div class="cow">🐮 Moo! Be my Valentine? 🐮</div>
     <button id="yesBtn">Yes!</button>
     <button id="noBtn">No</button>
